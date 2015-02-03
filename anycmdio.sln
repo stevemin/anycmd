@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A73FC125-7C7F-4D37-B668-800D7F61F58B}"
+	ProjectSection(SolutionItems) = preProject
+		default.html = default.html
+		index.html = index.html
+		params.json = params.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{C920931D-CA42-460E-AB69-571162AC0A1D}"
+	ProjectSection(SolutionItems) = preProject
+		images\bg_hr.png = images\bg_hr.png
+		images\blacktocat.png = images\blacktocat.png
+		images\icon_download.png = images\icon_download.png
+		images\sprite_download.png = images\sprite_download.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "javascripts", "javascripts", "{024481EB-A990-4161-AD19-8D2DB354024F}"
+	ProjectSection(SolutionItems) = preProject
+		javascripts\main.js = javascripts\main.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "stylesheets", "stylesheets", "{00BF021E-DEA7-43FC-8735-77AC2C53C435}"
+	ProjectSection(SolutionItems) = preProject
+		stylesheets\pygment_trac.css = stylesheets\pygment_trac.css
+		stylesheets\stylesheet.css = stylesheets\stylesheet.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C920931D-CA42-460E-AB69-571162AC0A1D} = {A73FC125-7C7F-4D37-B668-800D7F61F58B}
+		{024481EB-A990-4161-AD19-8D2DB354024F} = {A73FC125-7C7F-4D37-B668-800D7F61F58B}
+		{00BF021E-DEA7-43FC-8735-77AC2C53C435} = {A73FC125-7C7F-4D37-B668-800D7F61F58B}
+	EndGlobalSection
+EndGlobal
